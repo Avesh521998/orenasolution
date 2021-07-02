@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750703215329",
+    "project_id": "orenasolution",
+    "storage_bucket": "orenasolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750703215329:android:d679d67707785ea8226da0",
+        "android_client_info": {
+          "package_name": "com.example.orenasolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750703215329-t9c97g85tsope9t9ts5jcuo53j4dmto2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orenasolution",
+            "certificate_hash": "8ab873557eb3c5c4f37ed4bfff9e97f41e20245e"
+          }
+        },
+        {
+          "client_id": "750703215329-2am1vktugkvuo4obu6bbilns8q9jd6gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUTW0FteQyACjClL0EADjECzhg4lKK5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750703215329-2am1vktugkvuo4obu6bbilns8q9jd6gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
